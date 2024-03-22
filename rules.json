@@ -1,1 +1,1 @@
-{"PDF": ".pdf", "EXE": ".exe", "MP3": ".mp3", "Pictures": [".png", ".jpeg", ".jpg", ".png"], "Archives": [".zip", ".rar", ".7zip", ".tar.gz"], "Docs": [".docx", ".doc", ".word"]}
+{"PDF": ".pdf", "EXE": ".exe", "MP3": ".mp3", "Arhive": [".zip", ".rar"], "Poze": [".png", ".jpg"], "HTML": [".html"]}

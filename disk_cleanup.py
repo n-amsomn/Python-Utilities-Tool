@@ -80,10 +80,12 @@ def main():
         deleteFiles(getPaths()[2]) 
     elif choice == 3:
         deleteFiles(getPaths()[0])
-    else:
+    elif choice == 4:
         deleteFiles(getPaths()[0])
         deleteFiles(getPaths()[1])
         deleteFiles(getPaths()[2])
         deleteFiles(getPaths()[3])
+    else:
+        print("Not a valid choice!")
 
     print("DONE")
